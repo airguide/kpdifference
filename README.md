@@ -2,6 +2,8 @@ KENYA NUMBER PLATE DIFFERENCE Version: 1.0
 -----------------------------------------------------------------------------------------
 This app calculates how many cars were sold between two Kenya vehicle registration plates
 
+OUTPUT IS:
+https://user-images.githubusercontent.com/324225/43635503-f118e298-9717-11e8-8cac-62aebaaf1449.png
 
 Requirements of the sentence are that it must contain alpha numeric values
 
